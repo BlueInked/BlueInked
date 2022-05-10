@@ -4,7 +4,7 @@
 -       > Bash
 -       > Python
 -       > Powershell
-- 💞️ I’m looking to collaborate on furthering SecDevOps and Cloud Security 
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me https://www.linkedin.com/in/sn-barnes/ twitter: @barnes_sn
 
 <!---
