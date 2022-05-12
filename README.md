@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlueInked
+- 👋 Hi, I’m @BlueInked (AKA Steph)
 - 👀 I’m interested in Infosec, Python, Threat Intelligence, and Threat Hunting
 - 🌱 I’m currently learning Scripting/Automation with:
 -       > Bash
